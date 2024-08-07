@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "𝐃𝐀𝐕𝐈𝐃 𝐒𝐀𝐆𝐎𝐑",
+  "PREFIX": "?",
   "OPERATOR": [
     "100085082042087",
-    "61556970292809"
+    "61556910934901"
   ],
   "ADMINBOT": [
     "100085082042087",
-    "61556970292809"
+    "61556910934901"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
