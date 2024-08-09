@@ -37,7 +37,6 @@ var callback = () => api.sendMessage({body:`
 𝐀𝐠𝐞           : 𝟏𝟖+
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐒𝐢𝐧𝐠𝐥𝐞
 𝐖𝐨𝐫𝐤        : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
-𝐆𝐦𝐚𝐢𝐥       : nayandj295@gmail.com
 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: wa.me/+8801794018169
 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : t.me/inbox
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 : https://www.facebook.com/profile.php?id=61556910934901.,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
